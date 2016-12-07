@@ -136,7 +136,7 @@ touch src/tela2.js
 const angular = require("angular");
 
 angular.module("hellobrowserify", [
-  require("angular-router")
+  require("angular-route")
 ]);
 
 // roteamento
